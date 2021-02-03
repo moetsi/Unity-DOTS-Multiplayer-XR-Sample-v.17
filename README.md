@@ -13,6 +13,8 @@ Unity DOTS is still in the beginning of its development and has been going throu
 We are providing a tutorial and sample project for how to create a multiplayer real-time XR experience using Unity's DOTS. Anyone that has been interested in trying out DOTS but are concerned about stability or package interoperability can use this tutorial knowing that "it will work".
 We will build a project that can deploy to both desktop and ARKit platforms. Desktop players will be able to navigate using WASDF keys and AR players will be able to navigate using their device movement.
 
+Checkout the tutorial here: https://moetsi.gitbook.io/unity-dots-multiplayer-xr-sample-project/
+
 ## End Result
 
 Link to iOS
