@@ -16,5 +16,7 @@ We will build a project that can deploy to both desktop and ARKit platforms. Des
 ## End Result
 
 Link to iOS
+
 Link to Mac store
+
 Link to Windows
