@@ -14,11 +14,3 @@ We are providing a tutorial and sample project for how to create a multiplayer r
 We will build a project that can deploy to both desktop and ARKit platforms. Desktop players will be able to navigate using WASD keys and AR players will be able to navigate using their device movement.
 
 Checkout the tutorial here: https://moetsi.gitbook.io/unity-dots-multiplayer-xr-sample-project/
-
-## End Result
-
-Link to iOS
-
-Link to Mac store
-
-Link to Windows
